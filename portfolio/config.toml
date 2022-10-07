@@ -1,0 +1,4 @@
+baseURL = 'https://kafka0nkoffee.github.io/'
+languageCode = 'en-us'
+title = 'Diya Burman'
+theme = "ananke"
